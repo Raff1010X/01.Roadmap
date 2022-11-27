@@ -134,13 +134,13 @@ HTML-CSS-SASS-JavaScript-PostgreSQL-MongoDB-Express-React-Redux-Jest-Mocha-> NOW
 ##
 
 # Mini-Projects
-[RWD-CSS-animation](https://github.com/Raff1010X/35.RWD-CSS-animation)
+[RWD-CSS-animation](https://github.com/Raff1010X/35.RWD-CSS-animation):star:
 
 [Event-Propagation](https://github.com/Raff1010X/36.Event-Propagation)
 
 [Image-Carousel](https://github.com/Raff1010X/37.Image-Carousel)
 
-[Blue-Mountains--3D-Paralax](https://github.com/Raff1010X/38.Blue-Mountains--3D-Paralax)
+[Blue-Mountains--3D-Paralax](https://github.com/Raff1010X/38.Blue-Mountains--3D-Paralax):star:
 
 [Misterious-Krokow--Card](https://github.com/Raff1010X/39.Misterious-Krokow--Card)
 
@@ -148,7 +148,7 @@ HTML-CSS-SASS-JavaScript-PostgreSQL-MongoDB-Express-React-Redux-Jest-Mocha-> NOW
 
 [Hover-Over-Card-2](https://github.com/Raff1010X/41.Hover-Over-Card-2)
 
-[Hover-Over-Card-3-And-Click](https://github.com/Raff1010X/47.Hover-Over-Card-3-And-Click)
+[Hover-Over-Card-3-And-Click](https://github.com/Raff1010X/47.Hover-Over-Card-3-And-Click):star:
 
 ##
 
