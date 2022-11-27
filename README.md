@@ -1,5 +1,5 @@
 # JavaScript-Fullstack-Developer
--> HTML-CSS-SASS-JavaScript-PostgreSQL-MongoDB-Express-React-Redux-Jest-Mocha-> NOW-> TypeScript-NEXT->
+HTML-CSS-SASS-JavaScript-PostgreSQL-MongoDB-Express-React-Redux-Jest-Mocha-> NOW-> TypeScript-NEXT
 ##
 ##
 
