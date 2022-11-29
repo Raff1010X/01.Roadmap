@@ -126,7 +126,9 @@ HTML-CSS-SASS-JavaScript-PostgreSQL-MongoDB-Express-React-Redux-Jest-Mocha-> NOW
 
 [American-British-Translator](https://github.com/Raff1010X/45.American-British-Translator):star:
 
-[Stock Price Checker]() (TODO)
+## Information-Security-Projects
+
+[Stock Price Checker](https://github.com/Raff1010X/48.Stock-Price-Checker)
 
 [Anonymous Message Board]() (TODO)
 
@@ -157,7 +159,7 @@ HTML-CSS-SASS-JavaScript-PostgreSQL-MongoDB-Express-React-Redux-Jest-Mocha-> NOW
 
 [PAW-AGH](http://paw.agh.edu.pl/) Postgraduate Studies [Certificate](./Certificates/PAW.jpg):page_with_curl:
 
-[freeCodeCamp](https://www.freecodecamp.org/fccb4ec33f8-8e7e-4bc0-9b46-7f71525e37d1) Full-Stack-Certification [Certificate]():page_with_curl: (TODO)
+[freeCodeCamp](https://www.freecodecamp.org/fccb4ec33f8-8e7e-4bc0-9b46-7f71525e37d1) Legacy-Full-Stack-Certification [Certificate]():page_with_curl: (TODO)
 
 Responsive-Web-Design [Certificate](./Certificates/RWD.png):page_with_curl:
 
