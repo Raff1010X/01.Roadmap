@@ -130,7 +130,7 @@ Information-Security-Projects:
 
 [Stock Price Checker](https://github.com/Raff1010X/48.Stock-Price-Checker)
 
-[Anonymous Message Board](https://github.com/Raff1010X/49.Anonymous-Message-Board)
+[Anonymous Message Board](https://github.com/Raff1010X/49.Anonymous-Message-Board):star:
 
 ##
 ##
