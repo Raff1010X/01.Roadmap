@@ -13,20 +13,6 @@ HTML-CSS-SASS-JavaScript-PostgreSQL-MongoDB-Express-React-Redux-Jest-Mocha-> NOW
 [WebApp-React-Redux]()
 
 [AdminWebApp-React-Redux]() (TODO)
-##
-
-## MERN-Fullstack-App
-[MERN-Fullstack-App]() (TODO)
-##
-
-## MNRN-Fullstack-App
-[MNRN-Fullstack-App]() (TODO)
-##
-
-## PNRN-Fullstack-App
-[PNRN-Fullstack-App]() (TODO)
-
-#
 
 #
 # [freeCodeCamp](https://www.freecodecamp.org/fccb4ec33f8-8e7e-4bc0-9b46-7f71525e37d1) Full-Stack-Certification-Projects
