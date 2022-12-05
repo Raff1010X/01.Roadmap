@@ -27,7 +27,7 @@ HTML-CSS-SASS-JavaScript-PostgreSQL-MongoDB-Express-React-Redux-Jest-Mocha
 [Hover-Over-Card-3-And-Click](https://github.com/Raff1010X/47.Hover-Over-Card-3-And-Click):star:
 
 #
-<p style="text-align: center;">-----------------------------------------------------</p>
+<center>-----------------------------------------------------</center>
 
 #
 # [freeCodeCamp](https://www.freecodecamp.org/fccb4ec33f8-8e7e-4bc0-9b46-7f71525e37d1) Full-Stack-Certification-Projects
