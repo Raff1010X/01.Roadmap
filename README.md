@@ -7,8 +7,7 @@ HTML-CSS-SASS-JavaScript-PostgreSQL-MongoDB-Express-React-Redux-Jest-Mocha
 
 ## [Nearmiss-Reporting-App]() Postgress-Express-React/Redux-Node:star::star:
 
-##
-##
+#
 
 # Mini-Projects
 [RWD-CSS-animation](https://github.com/Raff1010X/35.RWD-CSS-animation):star:
