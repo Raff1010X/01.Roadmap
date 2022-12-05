@@ -1,18 +1,31 @@
 # JavaScript-Fullstack-Developer
-HTML-CSS-SASS-JavaScript-PostgreSQL-MongoDB-Express-React-Redux-Jest-Mocha-> NOW-> TypeScript-NEXT
+HTML-CSS-SASS-JavaScript-PostgreSQL-MongoDB-Express-React-Redux-Jest-Mocha
 ##
 ##
 
 # Fullstack-Projects
-## Nearmiss-Reporting PERN-Fullstack-App
 
-[Database-PostgreSQL]()
+## [Nearmiss-Reporting-App]() Postgress-Express-React/Redux-Node:star::star:
 
-[Server-Express]():star:
+##
+##
 
-[WebApp-React-Redux]()
+# Mini-Projects
+[RWD-CSS-animation](https://github.com/Raff1010X/35.RWD-CSS-animation):star:
 
-[AdminWebApp-React-Redux]() (TODO)
+[Event-Propagation](https://github.com/Raff1010X/36.Event-Propagation)
+
+[Image-Carousel](https://github.com/Raff1010X/37.Image-Carousel)
+
+[Blue-Mountains--3D-Paralax](https://github.com/Raff1010X/38.Blue-Mountains--3D-Paralax):star:
+
+[Misterious-Krokow--Card](https://github.com/Raff1010X/39.Misterious-Krokow--Card)
+
+[Hover-Over-Card-1](https://github.com/Raff1010X/40.Hover-Over-Card-1)
+
+[Hover-Over-Card-2](https://github.com/Raff1010X/41.Hover-Over-Card-2)
+
+[Hover-Over-Card-3-And-Click](https://github.com/Raff1010X/47.Hover-Over-Card-3-And-Click):star:
 
 #
 # [freeCodeCamp](https://www.freecodecamp.org/fccb4ec33f8-8e7e-4bc0-9b46-7f71525e37d1) Full-Stack-Certification-Projects
@@ -117,26 +130,6 @@ Information-Security-Projects:
 [Stock Price Checker](https://github.com/Raff1010X/48.Stock-Price-Checker)
 
 [Anonymous Message Board](https://github.com/Raff1010X/49.Anonymous-Message-Board):star:
-
-##
-##
-
-# Mini-Projects
-[RWD-CSS-animation](https://github.com/Raff1010X/35.RWD-CSS-animation):star:
-
-[Event-Propagation](https://github.com/Raff1010X/36.Event-Propagation)
-
-[Image-Carousel](https://github.com/Raff1010X/37.Image-Carousel)
-
-[Blue-Mountains--3D-Paralax](https://github.com/Raff1010X/38.Blue-Mountains--3D-Paralax):star:
-
-[Misterious-Krokow--Card](https://github.com/Raff1010X/39.Misterious-Krokow--Card)
-
-[Hover-Over-Card-1](https://github.com/Raff1010X/40.Hover-Over-Card-1)
-
-[Hover-Over-Card-2](https://github.com/Raff1010X/41.Hover-Over-Card-2)
-
-[Hover-Over-Card-3-And-Click](https://github.com/Raff1010X/47.Hover-Over-Card-3-And-Click):star:
 
 ##
 
