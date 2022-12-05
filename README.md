@@ -5,7 +5,8 @@ HTML-CSS-SASS-JavaScript-PostgreSQL-MongoDB-Express-React-Redux-Jest-Mocha
 
 # Fullstack-Projects
 
-## [Nearmiss-Reporting-App]() Postgress-Express-React/Redux-Node:star::star:
+[Nearmiss-Reporting-App]() Postgress-Express-React/Redux-Node:star:
+
 
 #
 
